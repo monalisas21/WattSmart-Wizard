@@ -7,13 +7,8 @@
     <i>WattSmart addresses the critical global issue of resource wastage and inefficiency in energy and water management. Through a combination of IoT sensors, real-time data processing via cloud computing, and AI-powered analytics, the system monitors energy consumption and automates resource optimization. It offers personalized recommendations, alerts, and insights, allowing users to minimize waste and lower costs. The seamless integration of hardware and software makes the solution scalable, impacting both household and industrial sectors. Its focus on sustainability promotes environmental conservation while providing significant economic and social benefits.</i>
 </p>
 
-<h1 align="center">🌟 Team Details 🌟</h1>
-<p align="center">
-    <i>Jitendra Kumar Yadav - LNCT Bhopal</i><br>
-    <i>Om Narayan Singh - LNCT Bhopal</i>
-</p>
 
-<h1 align="center">📚 Domain of Your Project 📚</h1>
+<h1 align="center">📚 Overview 📚</h1>
 <p align="center">
     <i>This project aims to tackle the problems of Energy mismanagement, Increasing Carbon Footprint and Surging Utility Costs. It falls within the intersection of IoT (Internet of Things), Machine Learning, and Energy Management Systems. It uses IoT sensors to collect real-time energy consumption data, which is then processed and analyzed using ML algorithms like Linear Regression for consumption prediction and DBSCAN for anomaly detection. The backend, built with Flask, handles data retrieval, management, and storage, enabling a seamless user experience. The system's primary goal is to optimize energy usage, reduce costs, and support sustainability efforts by providing actionable insights and predictive analytics for better decision-making in real-world applications.</i>
 </p>
@@ -84,21 +79,18 @@
 
 ---
 
-<h1 align="center">🏆 Achievements Thus Far 🏆</h1>
+<h1 align="center">🏆 Achievements🏆</h1>
 <p align="center">
-    Here are some of the notable achievements and recognitions received by the X Factors team:
 </p>
 
 - **🏆 Top 5 Winners (4th Place)** – BuzzOnEarth Hackathon, National AI and Sustainability Hackathon by Intel and IIT Kanpur.
 
 - **🥇 Winners** – State Innovation Challenge by World Wildlife Federation (WWF).
 
-- **🎖️ Winners** – Swarnim-2024 A National Level Technological Expo, Science for Mankind Category, SAGE University.
-
 - **🚀 Winners** – Entrepreneurship-Week 2024, National Idea and Startup Competition at Jaipuria Institute of Management, Jaipur.
 
 
-<h1 align="center">🚀 How to Execute Your Code Sample 🚀</h1>
+<h1 align="center">🚀 How to Execute Our Code Sample 🚀</h1>
 <p align="center">
     Follow these steps to run the WattSmart Wizard code on your local machine. Make sure you have Python and `pip` installed before proceeding.
 </p>
